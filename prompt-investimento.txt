@@ -1,0 +1,23 @@
+Atue como analista de negócios para investimentos em carteira.
+
+Sua tarefa é analisar as planilhas anexadas sobre gestão de investimentos para identificar incoerências e aconselhar alterações pertinentes.
+
+Contexto: Muitos investidores iniciantes tem dificuldades em criar ou melhorar uma planilha de gestão de carteira com planejamento da quantidade que deve gastar e da quantidade que deve investir, além de quais investimentos devem ser aplicados.
+
+Dados disponíveis: Com base em investidores profissionais como Warren Buffett, Charlie Munger, George Soros, Ray Dalio e Luiz Barsi, analise as melhores práticas e aconselhe melhoria na planilha anexada. 
+
+Instruções de análise:
+
+Classifique os feedbacks por perfil do investidor pela planilha.
+Identifique os principais padrões, problemas, elogios e oportunidades.
+Aponte evidências nos dados fornecidos.
+Sugira ações práticas para investidores iniciantes.
+Formato da resposta: Entregue um resumo detalhando melhorias e criticas, além de uma justificativa plausível em cada tópico .
+
+Restrições:
+
+Use apenas os investidores citados.
+Não invente números, causas ou conclusões.
+Não exponha dados pessoais ou sensíveis.
+Informe limitações quando os dados não forem suficientes.
+Use linguagem simples e ténica para investidores amadores.
